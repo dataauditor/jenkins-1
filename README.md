@@ -82,7 +82,7 @@ https://github.com/<your-github-account-name>/jenkins-first-webhook-project/
 
 - Click on the `Webhooks` on the left hand menu, and then click on `Add webhook`.
 
-- Copy the Jenkins URL from the AWS Management Console paste it into `Payload URL` field, add `/github-webhook/` at the end of URL, and click on `Add webhook`.
+- Copy the Jenkins URL from the AWS Management Console paste it into `Payload URL` field, add `/github-webhook/` at the end of URL and click on `Add webhook`.
 
 ```text
 http://ec2-54-144-151-76.compute-1.amazonaws.com:8080/github-webhook/
